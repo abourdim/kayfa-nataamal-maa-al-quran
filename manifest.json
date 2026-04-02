@@ -1,0 +1,12 @@
+{
+  "name": "How to Deal with the Quran — كيف نتعامل مع القرآن",
+  "short_name": "كيف نتعامل مع القرآن",
+  "description": "Interactive trilingual app based on Sheikh Mohammed al-Ghazali's book",
+  "start_url": "index.html",
+  "display": "standalone",
+  "background_color": "#F3E5F5",
+  "theme_color": "#6A1B9A",
+  "lang": "ar",
+  "dir": "rtl",
+  "icons": []
+}
